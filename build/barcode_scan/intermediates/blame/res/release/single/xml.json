@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\dcd5cfbbf6a58afdda2d064ba6109f93\\material-1.1.0\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\dcd5cfbbf6a58afdda2d064ba6109f93\\material-1.1.0\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\dcd5cfbbf6a58afdda2d064ba6109f93\\material-1.1.0\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\res\\merged\\release\\xml\\standalone_badge.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\dcd5cfbbf6a58afdda2d064ba6109f93\\material-1.1.0\\res\\xml\\standalone_badge.xml"
+    }
+]

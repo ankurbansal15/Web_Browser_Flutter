@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_open_enter.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_fast_out_extra_slow_in.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_close_exit.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_open_exit.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\flutter_downloader\\intermediates\\res\\merged\\release\\anim\\fragment_close_enter.xml",
+        "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\2802aedd98715a3303728aa3d1a909e8\\fragment-1.2.5\\res\\anim\\fragment_close_enter.xml"
+    }
+]

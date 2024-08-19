@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\4e86848da342e6b27feeff6859ee4026\\jetified-core-1.9.13\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ankurbansal\\AndroidStudioProjects\\flutter_browser_app\\build\\barcode_scan\\intermediates\\res\\merged\\release\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ankurbansal\\.gradle\\caches\\transforms-2\\files-2.1\\4e86848da342e6b27feeff6859ee4026\\jetified-core-1.9.13\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}
